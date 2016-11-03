@@ -1,7 +1,7 @@
 LaunchAppFromWebPage
 ====================
 
-Launch an app by js 
+Launch an android app by js 
 
 
 在手机浏览器上，点击下载app的按钮时，实现如果已经安装了本app就直接打开，未安装就下载。
